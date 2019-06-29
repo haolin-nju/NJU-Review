@@ -7,3 +7,5 @@ Notes I prepared for final examinations at NJU CS
 ## Thoughts
 - I will continue to update this repo
 - Maybe I will add my girlfriend’s notes to this repository in the future./dog
+## Log
+- 2019/06/30: Update Sophomore spring semester
