@@ -7,5 +7,8 @@ Notes I prepared for final examinations at NJU CS
 ## Thoughts
 - I will continue to update this repo
 - Maybe I will add my girlfriend’s notes to this repository in the future./dog
+  -  Oh, she refused...
 ## Log
 - 2019/06/30: Update folder "Sophomore Spring"
+- 2019/07/01: Update folder "Sophomore Autumn"
+- 2019/07/01: Update folder "Freshman Spring"
