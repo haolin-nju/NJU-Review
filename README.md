@@ -14,3 +14,5 @@ Notes I prepared for final examinations at NJU CS
 - 2019/07/01: Update folder "Sophomore Autumn"
 - 2019/07/01: Update folder "Freshman Spring"
 - 2019/07/11: Update folder "Freshman Autumn"
+- 2019/09/17: Update folder "Junior Autumn"
+
