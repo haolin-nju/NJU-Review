@@ -15,4 +15,5 @@ Notes I prepared for final examinations at NJU CS
 - 2019/07/01: Update folder "Freshman Spring"
 - 2019/07/11: Update folder "Freshman Autumn"
 - 2019/09/17: Update folder "Junior Autumn"
+- 2019/09/20: I'm very happy to get the first withdrawal of my university course.
 
