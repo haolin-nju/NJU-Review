@@ -2,8 +2,8 @@
 Notes I prepared for final examinations at NJU CS
 ## Preface
 - My review notes are organized according to the semester.
-- There are different courses under each semester folder.
-- If you think this repo is good, please light the "Star" for me.
+- There are different courses in each semester folder.
+- If you consider this repo helpful, please light the "Star" for me.
 - I hope that these notes will help you!:-)
 ## Thoughts
 - I will continue to update this repo
