@@ -15,3 +15,6 @@ Notes I prepared for final examinations at NJU CS
 - 2019/09/17: Update folder "Junior Autumn"
 - 2019/09/20: I'm very happy to get the first withdrawal of my university course! lol
 
+## Copyright Notice
+
+- I referred some people's materials, such as powerpoints and sample papers in this repository. If there are any copyright things or concerns, please contact me as soon as possible at <njulh2017@outlook.com>.
