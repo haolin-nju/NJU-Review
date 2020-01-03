@@ -17,4 +17,4 @@ Notes I prepared for final examinations at NJU CS
 
 ## Copyright Notice
 
-- I referred some people's materials, such as powerpoints and sample papers in this repository. If there are any copyright things or concerns, please contact me as soon as possible at <njulh2017@outlook.com>.
+- I refer to some people's materials, such as powerpoints and sample papers in this repository. If there are any copyright things or concerns, please contact me as soon as possible at <njulh2017@outlook.com>.
