@@ -1,5 +1,7 @@
 # Artificial Intelligence: A Modern Approach Reading Notes
 
+*These reading notes only include some basic concepts in AIMA, while some of these concepts are of Chinese English comparison to facilitate my future study. In the spirit of open source, I'd like to share them with you and hope them useful.:)*
+
 ## Chapter 1 Introduction
 
 ### Section 1: What is AI?
